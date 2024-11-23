@@ -1,5 +1,8 @@
 # Cyber-Security-Data-Analysis
 
+![cs](https://github.com/user-attachments/assets/f6ab6bf6-4584-4ddd-98f3-51ea5f003db6)
+
+
 Dataset Review and Analysis 
 
 The dataset contains 25 columns of data related to network traffic and attacks. At the beginning of this data, 4 of them were numeric and the rest were object data. First, let me examine the statistical values ​​of the numeric data. Then, I classified the object data according to whether they were unique. I converted all of the unique data into numeric with hash, applied categorical encoding to balanced data, and examined and organized the object data containing NaN. It is currently completely numeric and processed numerically.
